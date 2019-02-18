@@ -55,14 +55,3 @@ AlphaApproxdBperm = [587.76;1.31e3;1.19e3 ;1.31e3;1.31e3];
 WavelengthApproxInMeters = [.0932;.0417;.0190;.0101;.0021];
 
 T = table(LossTangent,FrequencyInGHz,WavelengthInMetersEXACT,WavelengthApproxInMeters,AlphaExactdBperm,AlphaApproxdBperm)
-
-
-
-
-
-
-
-
-
-
-
